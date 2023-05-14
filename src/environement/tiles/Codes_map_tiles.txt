@@ -1,0 +1,21 @@
+# Tableau représentant la map qt
+###################
+# Définition des nombres
+# 0 = vide
+# 1 = plein
+# 2 = haut
+# 3 = bas
+# 4 = hautgauche
+# 5 = hautdroit
+# 6 = basgauche
+# 7 = basdroit
+# 8 = gauche
+# 9 = droite
+# 10 = midhautgauche
+# 11 = midhautdroit
+# 12 = midbasgauche
+# 13 = midbasdroit
+# 14 = plateforme
+# 15 = box
+
+Codes map / tiles

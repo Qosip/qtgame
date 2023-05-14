@@ -1,0 +1,27 @@
+# Tableau représentant la map qt
+###################
+# Définition des nombres (Ajouter + 50 au nombre sur le fichier csv 
+# 1 = Arbre champignon         	| 51
+# 2 = Arbre							| 52		 	
+# 3 = Gros buisson					| 53
+# 4 = Grosse pierre				| 54
+# 5 = cle							| 55
+# 6 = petite herbe plafond		| 56
+# 7 = liane							| 57
+# 8 = petit buisson				| 58
+# 9 = pierre droit					| 59
+# 10 = pierre gauche				| 60
+# 11 = pierre haut					| 61
+# 12 = pierre bas					| 62 
+# 13 = petite pierre				| 63
+# 14 = fleur bas					| 64 
+# 15 = fleur haut					| 65
+# 16 = champignons					| 66
+# 17 = coffre						| 67
+# 18 = sac à dos					| 68
+# 19 = bigbox						| 69
+
+
+# 50 = pièces 						| 5050
+
+Codes map / tiles
