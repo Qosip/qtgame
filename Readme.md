@@ -78,7 +78,7 @@ Transition entre les levels : https://pimen.itch.io/holy-spell-effect
 Hearts : https://fliflifly.itch.io/hearts-and-health-bar
 Background et arbres : https://szadiart.itch.io/platformer-fantasy-set1
 
-
+(dans les fichiers github manquent les assets du personnage et des ennemis)
 
 Pour toute question ou problème : fddavid.francois@gmail.com
 François DAVID
