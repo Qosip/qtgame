@@ -6,6 +6,7 @@ Heures : ~150h
 Langage : C++ accompagné de Qt 5.15.2  
 Durée : 1 mois  
 Année : Isen CIR2 Mars/Avril 2023  
+Vidéo : https://www.youtube.com/watch?v=fmkm5IIBKJY
 
 # Le Projet
 Ce projet à été effectué dans le cadre de la fin d'un module C++ en CIR2.  
